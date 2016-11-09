@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\android\AisenForAndroid\sample\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\android\AisenForAndroid\sample\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\android\AisenSample\sample\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\android\AisenSample\sample\src\debug\shaders"/></dataSet></merger>

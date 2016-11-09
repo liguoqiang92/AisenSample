@@ -2,5 +2,9 @@
     {
         "merged": "D:\\android\\AisenForAndroid\\library_wen\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
         "source": "D:\\android\\AisenForAndroid\\library_wen\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\android\\AisenSample\\library_wen\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "E:\\android\\AisenSample\\library_wen\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\android\\AisenSample\\sample\\build\\intermediates\\res\\merged\\debug\\raw\\settings.xml",
+        "source": "E:\\android\\AisenSample\\sample\\src\\main\\res\\raw\\settings.xml"
+    },
+    {
         "merged": "D:\\android\\AisenForAndroid\\sample\\build\\intermediates\\res\\merged\\debug\\raw\\settings.xml",
         "source": "D:\\android\\AisenForAndroid\\sample\\src\\main\\res\\raw\\settings.xml"
     }
